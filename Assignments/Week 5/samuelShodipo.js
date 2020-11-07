@@ -7,9 +7,9 @@
    
    call("Will you code with me today?")  
    
+   
+   
    //Assignment 5b
-   
-   
     var array = [];
     
     function multiples(num, length){
@@ -22,10 +22,10 @@
     multiples(5, 7);
     
     
+    
   //Assignment 5c
     
-  var fibonacci_sequence = function (n) 
-    {
+  var fibonacci_sequence = function (n) {
   if (n===1) 
   {
     return [0, 1];
